@@ -1,0 +1,40 @@
+body{
+  background-color: rgba(255, 196, 0, 0.3);
+}
+.intro{
+  text-align: center;
+}
+#name{
+  color:rgb(220, 20, 20);
+  font-size:large;
+}
+#sub{
+  font-size:x-large;
+  opacity: 0.8;
+}
+img{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 100%;
+  height:auto;
+}
+em{
+  color:blueviolet;
+  font-size:large;
+}
+ul{
+  max-width:600px;
+  margin:35px auto;
+}
+li{
+  margin: 15px 0px;
+  font-family:'Times New Roman', Times, serif;
+  font-size:large;
+  line-height: 1.5;
+}
+#inspiringQuote{
+  font-weight: bold;
+  max-width: 600px;
+  margin:auto;
+}
